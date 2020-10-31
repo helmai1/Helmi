@@ -1,9 +1,9 @@
 ### Hi there, I'm Helmi Effendi - aka Helmi 👋
 
-## I'm a College Student, Developer, and !!
+## I'm a College Student and Developer
 
 - 🌱 I’m currently learning Progressive Web Apps
-- 🇮🇩 I’m from Indonesia
+- 🇮🇩  I’m from Indonesia
 - 🥅 2020 Goals: I'm going to graduate this year 😁
 - ⚡ Fun fact: I love to watch anime and play games
 
