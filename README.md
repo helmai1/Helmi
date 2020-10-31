@@ -18,12 +18,12 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="helmai1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=helmai1&show_icons=true&hide_border=true" />
 
-</details>
+
 [facebook]: https://facebook.com/helmieffendis/
 [instagram]: https://instagram.com/helmieffendi_s/
 [linkedin]: https://linkedin.com/in/helmi-siswo-effendi-250473156/
