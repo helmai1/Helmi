@@ -11,7 +11,7 @@
 
 [<img align="left" alt="helmai1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="helmai1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="helmai1 | Instagram" width="22px" src="https://www.pngfind.com/pngs/m/2-22629_instagram-new-logo-png-image-royalty-free-white.png" />][instagram]
+[<img align="left" alt="helmai1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
