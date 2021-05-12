@@ -26,7 +26,7 @@
 
   <summary>🚀 Most Used Languages</summary>
   
-  <img align="left" alt="helmai1's GitHub Most Use Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmai1&show_icons=true&hide_border=true" />
+  <img align="left" alt="helmai1's GitHub Most Use Languages" src="" />
 
 
 [facebook]: https://facebook.com/helmieffendis/
