@@ -23,8 +23,6 @@
 
   <img align="left" alt="helmai1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=helmai1&show_icons=true&hide_border=true" />
 
----
-
 
   <summary>:zap: Most Use Languages</summary>
   
