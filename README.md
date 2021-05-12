@@ -2,9 +2,9 @@
 
 ## I'm a College Student and Developer
 
-- 🌱 I’m currently learning Progressive Web Apps
+- 🌱 I'm working on a thesis
 - 🇮🇩  I’m from Indonesia
-- 🥅 2020 Goals: I'm going to graduate this year 😁
+- 🥅 2021 Goals: -
 - ⚡ Fun fact: I love to watch anime and play games
 
 ### Connect with me:
