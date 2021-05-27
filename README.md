@@ -21,7 +21,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="helmai1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
+  <img align="left" alt="helmai1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=helmai1&show_icons=true&theme=radical)" />
 
 
   <summary>🚀 Most Used Languages</summary>
