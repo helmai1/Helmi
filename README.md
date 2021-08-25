@@ -2,8 +2,8 @@
 
 ## I'm a College Student and Developer
 
-- 🌱 I'm working on a thesis
-- 🇮🇩  I’m from Indonesia
+- 🌱 I'm working on -
+- 🇮🇩  From Indonesia
 - 🥅 2021 Goals: -
 - ⚡ Fun fact: I love to watch anime and play games
 
