@@ -1,10 +1,10 @@
 ### Hi there, I'm Helmi Effendi - aka Helmi 👋
 
-## I'm a College Student and Developer
+## I'm a SAP ABAP Consultant
 
-- 🌱 I'm working on -
+- 🌱 Learning something
 - 🇮🇩  From Indonesia
-- 🥅 2021 Goals: -
+- 🥅 2022 Goals: Get a job
 - ⚡ Fun fact: I love to watch anime and play games
 
 ### Connect with me:
