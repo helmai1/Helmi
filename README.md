@@ -4,7 +4,7 @@
 
 - 🌱 Learning something
 - 🇮🇩  From Indonesia
-- 🥅 2023 Goals: Get a job
+- 🥅 2025 Goals: Have a some business and get a new job
 - ⚡ Fun fact: I love to watch anime and play games
 
 ### Connect with me:
